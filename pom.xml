@@ -18,7 +18,7 @@ http://maven.apache.org/guides/mini/guide-m1-m2.html
 	<groupId>org.archive</groupId>
 	<!--This project is parent to all under 'projects' subdirectory-->
 	<artifactId>heritrix</artifactId>
-	<version>commit-1a91a2c8c1dbde11946183afd11bcefd962f7e09</version>
+	<version>3.4.0-1a91a2c8c1dbde11946183afd11bcefd962f7e09</version>
 	<packaging>pom</packaging>
 	<name>Heritrix 3</name>
 	<description>

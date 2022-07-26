@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>org.archive</groupId>
 		<artifactId>heritrix</artifactId>
-		<version>commit-1a91a2c8c1dbde11946183afd11bcefd962f7e09</version>
+		<version>3.4.0-1a91a2c8c1dbde11946183afd11bcefd962f7e09</version>
 	</parent>
 	<groupId>org.archive.heritrix</groupId>
 	<artifactId>heritrix-contrib</artifactId>
